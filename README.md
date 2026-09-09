@@ -184,3 +184,8 @@ The Base team that put this together is cracked and it was dope to be at Basecam
 ---
 
 **"Base is a bridge, not an island."**  🌉 Play positive-sum games, win positive-sum prizes.
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot est disponible dans docs/fr/README.md. Elle couvre la configuration multi-environnement du pont, la construction manuelle des instructions Solana, le mecanisme d appel de contrat Base attache, l interface en ligne de commande terminal, la resolution ENS/Basenames, et le guide de bout en bout pour ponter un nouveau token SPL.
